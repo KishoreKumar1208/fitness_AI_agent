@@ -97,7 +97,7 @@ All the screenshots are embedded in the ppt provided
 **👤 KISHORE KUMAR**  
 *AI Internship Project – July–August 2025*  
 
-🔗 GitHub: [@your-github-username](https://github.com/your-github-username)  
+🔗 GitHub: KishoreKumar1208  
 📧 Email: kishoresuresh0812@gmail.com 
 🎓 Organization: IBM SkillsBuild AI Internship Program
 
